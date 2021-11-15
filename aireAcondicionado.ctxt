@@ -7,5 +7,5 @@ comment2.target=void\ subirTemperatura()
 comment3.params=
 comment3.target=void\ bajarTemperatura()
 comment4.params=
-comment4.target=float\ getTemperatura()
+comment4.target=double\ getTemperatura()
 numComments=5
